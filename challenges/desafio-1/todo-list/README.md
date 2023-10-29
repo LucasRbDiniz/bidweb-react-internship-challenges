@@ -14,7 +14,7 @@ npm install
 ## Executar
 
 ``` 
-npm run server
+npm run dev
 ``` 
 
 Abra http://localhost:5173 e seu projeto estara rodando!
