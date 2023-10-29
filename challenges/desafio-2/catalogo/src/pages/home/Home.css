@@ -1,0 +1,34 @@
+h2 {
+    margin: 0
+}
+
+.titulo{
+    margin-right: auto;
+    font-size: 50px;
+}
+
+.button-cart{
+    margin: 0;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.list-container {
+    margin-top: 25px;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 20px;
+}
+
+.home-container {
+    width: 996px;
+    text-align: start;
+}
+
+.subtitle-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

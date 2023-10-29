@@ -1,0 +1,31 @@
+.product-info-container {
+    width: 1000px;
+    text-align: start;
+}
+
+.product-info-card-container {
+    margin-top: 10px;
+    display: flex;
+    gap: 50px;
+
+}
+
+.product-info-buy-button {
+    width: 355px;
+    height: 60px;
+}
+
+.product-info-back-button {
+    width: 60px;
+    height: 60px;
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.product-info-buttons-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}

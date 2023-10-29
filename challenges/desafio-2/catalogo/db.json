@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "price": 19.99,
+      "info": "This is product A, a high-quality item for your need.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "User A",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore ipsum quae harum atque asperiores impedit dolor dolores odio quisquam maxime laboriosam odit quia, possimus, omnis optio!",
+          "rating": 10
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 29.99,
+      "info": "Product B is a versatile option with a competitive price.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "User C",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore ipsum quae harum atque asperiores impedit dolor dolores odio quisquam maxime laboriosam odit quia, possimus, omnis optio!",
+          "rating": 10
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 14.99,
+      "info": "Product C is a budget-friendly choice for your requirements.",
+      "reviews": [
+        {
+          "id": 1,
+          "user": "User B",
+          "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore ipsum quae harum atque asperiores impedit dolor dolores odio quisquam maxime laboriosam odit quia, possimus, omnis optio!",
+          "rating": 10
+        }
+      ]
+    }
+  ],
+  "cart": []
+}

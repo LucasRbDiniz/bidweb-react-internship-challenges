@@ -1,0 +1,36 @@
+.info-card-container {
+    width: 376px;
+    height: fit-content;
+    border-radius: 25px;
+    border: 3px solid #E8DEB3;
+    background-color: #FFFEF5;
+    padding: 0 25px 20px;
+    box-shadow: 0px 10px 10px 0px #00000040;
+}
+
+.product-name,
+.product-price {
+    text-align: center;
+}
+
+.product-price {
+    margin: 0 0 20px;
+}
+
+.product-icon {
+    text-align: center;
+}
+
+.product-description {
+    width: 340px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.product-description > p {
+    margin: 0;
+}
+
+.product-description > p {
+    word-wrap: break-word;
+}
